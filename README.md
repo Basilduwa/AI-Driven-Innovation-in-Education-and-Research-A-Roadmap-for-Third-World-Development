@@ -1,0 +1,2 @@
+# AI-Driven-Innovation-in-Education-and-Research-A-Roadmap-for-Third-World-Development
+This study explores the impact of Artificial intelligence (AI) in addressing the structural issues in education in the third-world countries. We developed an integrated educational challenge score focusing on the out of school rates, completion rates and proficiency levels using a multi-indicator dataset from 124 countries
